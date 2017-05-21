@@ -1,0 +1,263 @@
+Query1: what similarity laws must be obeyed when constructing aeroelastic models of heated high speed aircraft
+Relevant Documents:
+1. DocId: 573
+2. DocId: 51
+3. DocId: 184
+4. DocId: 486
+
+Non-relevant Documents
+1. DocId: 13
+2. DocId: 878
+
+
+Query2: what are the structural and aeroelastic problems associated with flight of high speed aircraft
+Relevant Documents:
+1. DocId: 12
+2. DocId: 51
+3. DocId: 875
+4. DocId: 746
+
+Non-relevant Documents
+1. DocId: 884
+2. DocId: 1089
+3. DocId: 172
+
+
+Query3: what problems of heat conduction in composite slabs have been solved so far
+Relevant Documents:
+1. DocId: 485
+2. DocId: 5
+3. DocId: 144
+4. DocId: 399
+
+Non-relevant Documents
+1. DocId: 90
+2. DocId: 181
+
+
+Query4: can a criterion be developed to show empirically the validity of flow solutions for chemically reacting gas mixtures based on the simplifying assumption of instantaneous local chemical equilibrium
+Relevant Documents:
+1. DocId: 166
+2. DocId: 488
+3. DocId: 1189
+
+Non-relevant Documents
+1. DocId: 1061
+2. DocId: 1275
+3. DocId: 1255
+4. DocId: 167
+
+
+Query5: what chemical kinetic system is applicable to hypersonic aerodynamic problems
+Relevant Documents:
+1. DocId: 103
+2. DocId: 943
+3. DocId: 1032
+4. DocId: 625
+
+Non-relevant Documents
+1. DocId: 1296
+2. DocId: 1272
+
+
+Query6: what theoretical and experimental guides do we have as to turbulent couette flow behaviour
+Relevant Documents:
+1. DocId: 386
+2. DocId: 491
+3. DocId: 257
+
+Non-relevant Documents
+1. DocId: 385
+2. DocId: 1282
+3. DocId: 121
+4. DocId: 610
+
+
+Query7: is it possible to relate the available pressure distributions for an ogive forebody at zero angle of attack to the lower surface pressures of an equivalent ogive forebody at angle of attack
+Relevant Documents:
+1. DocId: 492
+2. DocId: 56
+
+Non-relevant Documents
+1. DocId: 434
+2. DocId: 973
+3. DocId: 124
+4. DocId: 122
+5. DocId: 232
+6. DocId: 248
+
+
+Query8: what methods -dash exact or approximate -dash are presently available for predicting body pressures at angle of attack
+Relevant Documents:
+1. DocId: 248
+2. DocId: 69
+3. DocId: 492
+4. DocId: 19
+
+Non-relevant Documents
+1. DocId: 232
+2. DocId: 556
+3. DocId: 1083
+4. DocId: 569
+5. DocId: 122
+
+
+Query9: papers on internal /slip flow/ heat transfer studies
+Relevant Documents:
+1. DocId: 21
+2. DocId: 306
+3. DocId: 22
+4. DocId: 550
+5. DocId: 45
+
+Non-relevant Documents
+1. DocId: 326
+2. DocId: 270
+
+
+Query10: are real-gas transport properties for air available over a wide range of enthalpies and densities
+Relevant Documents:
+1. DocId: 302
+2. DocId: 949
+3. DocId: 524
+4. DocId: 1010
+
+
+Non-relevant Documents
+1. DocId: 69
+2. DocId: 436
+
+
+Query11: is it possible to find an analytical,  similar solution of the strong blast wave problem in the newtonian approximation
+Relevant Documents:
+1. DocId: 495
+2. DocId: 654
+3. DocId: 1327
+4. DocId: 472
+
+Non-relevant Documents
+1. DocId: 556
+2. DocId: 370
+3. DocId: 72
+
+
+Query12: how can the aerodynamic performance of channel flow ground effect machines be calculated
+Relevant Documents:
+1. DocId: 624
+2. DocId: 650
+3. DocId: 966
+4. DocId: 1232
+
+Non-relevant Documents
+1. DocId: 941
+2. DocId: 506
+
+
+Query13: what is the basic mechanism of the transonic aileron buzz
+Relevant Documents:
+1. DocId: 496
+2. DocId: 313
+3. DocId: 903
+4. DocId: 38
+
+Non-relevant Documents
+1. DocId: 520
+2. DocId: 643
+
+
+Query14: papers on shock-sound wave interaction
+Relevant Documents:
+1. DocId: 64
+2. DocId: 256
+3. DocId: 291
+4. DocId: 335
+5. DocID: 265
+
+Non-relevant Documents
+1. DocId: 46
+2. DocId: 875
+3. DocId: 388
+4. DocId: 739
+5. DocId: 195
+
+
+Query15: material properties of photoelastic materials
+Relevant Documents:
+1. DocId: 462
+2. DocId: 463
+3. DocId: 1043
+4. DocId: 817
+5. DocID: 1340
+
+Non-relevant Documents
+1. DocId: 1099
+2. DocId: 761
+3. DocId: 1025
+
+
+Query16: can the transverse potential flow about a body of revolution be calculated efficiently by an electronic computer
+Relevant Documents:
+1. DocId: 498
+2. DocId: 106
+3. DocId: 1286
+4. DocId: 326
+
+Non-relevant Documents
+1. DocId: 93
+2. DocId: 1043
+3. DocId: 1006
+4. DocId: 1255
+
+
+Query17: can the three-dimensional problem of a transverse potential flow about a body of revolution be reduced to a two-dimensional problem
+Relevant Documents:
+1. DocId: 106
+2. DocId: 231
+3. DocId: 1255
+4. DocId: 336
+
+Non-relevant Documents
+1. DocId: 1281
+2. DocId: 498
+3. DocId: 182
+4. DocId: 1149
+
+
+Query18: are experimental pressure distributions on bodies of revolution at angle of attack available
+Relevant Documents:
+1. DocId: 248
+2. DocId: 498
+3. DocId: 56
+4. DocId: 197
+
+Non-relevant Documents
+1. DocId: 124
+2. DocId: 492
+3. DocId: 1006
+4. DocId: 1352
+
+
+Query19: does there exist a good basic treatment of the dynamics of re-entry combining consideration of realistic effects with relative simplicity of results
+Relevant Documents:
+1. DocId: 713
+2. DocId: 711
+3. DocId: 260
+4. DocId: 482
+
+Non-relevant Documents
+1. DocId: 27
+2. DocId: 706
+3. DocId: 1279
+4. DocId: 1119
+
+
+Query20: has anyone formally determined the influence of joule heating,  produced by the induced current,  in magnetohydrodynamic free convection flows under general conditions
+Relevant Documents:
+1. DocId: 500
+2. DocId: 270
+3. DocId: 268
+4. DocId: 88
+5. DocId: 450
+
+Non-relevant Documents
+1. DocId: 584

@@ -1,0 +1,580 @@
+Query1: what similarity laws must be obeyed when constructing aeroelastic models of heated high speed aircraft
+Query Lemmas: {high=1, law=1, obey=1, similarity=1, aircraft=1, must=1, model=1, heated=1, construct=1, aeroelastic=1, speed=1}
+Weight 1 Vector: 
+{high=0.18589209639147047, law=0.3393946379666216, obey=0.5841340850404995, similarity=0.3454351217699856, aircraft=0.3006741201145824, must=0.34752944840600103, model=0.21264629157203985, heated=0.4093124538649631, construct=0.4215225079418248, aeroelastic=0.46355530891941543, speed=0.16356373665206167}
+Normalized: 
+{high=0.15418702898705375, law=0.28150874565429473, obey=0.4845063391656829, similarity=0.28651898691449196, aircraft=0.24939225590384592, must=0.2882561129569873, model=0.17637812773686065, heated=0.3395016378530387, construct=0.34962919033336537, aeroelastic=0.3844930324683783, speed=0.13566691157913818}
+
+TOP 5 document by WEIGHT-1
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.20042556147114232	cranfield0573	 viscous hypersonic similitude . 
+2	0.16990247571899078	cranfield0013	 similarity laws for stressing heated wings . 
+3	0.1658085477289632	cranfield0051	 theory of aircraft structural models subjected to aerodynamic heating and external loads . 
+4	0.15410168826278503	cranfield0184	 scale models for thermo-aeroelastic research . 
+5	0.13499694025079823	cranfield0486	 similarity laws for aerothermoelastic testing . 
+
+
+TOP 5 document by WEIGHT-2
+Weight 2 Vector: 
+{high=0.49020158229178107, law=0.5646865787207301, obey=0.683443028316036, similarity=0.5676176403820279, aircraft=0.5458979801454797, must=0.5686338835686483, model=0.503183687421998, heated=0.598613236964094, construct=0.6045379977203649, aeroelastic=0.6249338361122772, speed=0.47936705291924997}
+Normalized: 
+{high=0.2595463679448971, law=0.2989838381365279, obey=0.3618616546837342, similarity=0.3005357433850906, aircraft=0.289035864292416, must=0.30107381228891367, model=0.26641998556782237, heated=0.3169469399331508, construct=0.32008391498746075, aeroelastic=0.330882871920776, speed=0.25380982435014604}
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.1803888071141022	cranfield0051	 theory of aircraft structural models subjected to aerodynamic heating and external loads . 
+2	0.17890555909196718	cranfield0573	 viscous hypersonic similitude . 
+3	0.1625977299992982	cranfield0486	 similarity laws for aerothermoelastic testing . 
+4	0.1522466866832075	cranfield0878	 experimental model techniques and equipment for flutter investigations . 
+5	0.14519654022938117	cranfield0184	 scale models for thermo-aeroelastic research . 
+
+
+Query2: what are the structural and aeroelastic problems associated with flight of high speed aircraft
+Query Lemmas: {flight=1, high=1, problem=1, structural=1, aircraft=1, aeroelastic=1, associate=1, speed=1}
+Weight 1 Vector: 
+{flight=0.23869896327051393, high=0.18589209639147047, problem=0.15203345971650103, structural=0.3794897069642341, aircraft=0.3006741201145824, aeroelastic=0.46355530891941543, associate=0.3105545111488335, speed=0.16356373665206167}
+Normalized: 
+{flight=0.2879560672867911, high=0.22425215544787092, problem=0.18340656597806157, structural=0.45779990870507625, aircraft=0.36272020614094796, aeroelastic=0.5592130015875834, associate=0.37463948097355076, speed=0.197316191539899}
+
+TOP 5 document by WEIGHT-1
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.30043742958234176	cranfield0012	 some structural and aerelastic considerations of high speed flight . 
+2	0.18281829253840157	cranfield0051	 theory of aircraft structural models subjected to aerodynamic heating and external loads . 
+3	0.17264692401519183	cranfield0875	 models for aeroelastic investigation . 
+4	0.1623176685257617	cranfield0884	 the estimation of fatigue damage on structural elements . 
+5	0.16058063285662813	cranfield0746	 aeroelastic problems in connection with high speed flight . 
+
+
+TOP 5 document by WEIGHT-2
+Weight 2 Vector: 
+{flight=0.5187065994248358, high=0.4924453894572532, problem=0.47560726177635626, structural=0.5887227829280494, aircraft=0.5495272616387842, aeroelastic=0.6305291720299249, associate=0.5544408465349799, speed=0.481341346024958}
+Normalized: 
+{flight=0.34032780518693034, high=0.3230976022943304, problem=0.31204996371897553, structural=0.38626601782127135, aircraft=0.36054950342117614, aeroelastic=0.4136955447669639, associate=0.3637733482019755, speed=0.3158121450932774}
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.3017387988779025	cranfield0012	 some structural and aerelastic considerations of high speed flight . 
+2	0.20873746183423486	cranfield0051	 theory of aircraft structural models subjected to aerodynamic heating and external loads . 
+3	0.18994181594922985	cranfield0746	 aeroelastic problems in connection with high speed flight . 
+4	0.18833115911100382	cranfield1089	 aerodynamic characteristics of propeller-driven vtol aircraft . 
+5	0.17351589086516958	cranfield0172	 some aerodynamic considerations of nozzle afterbody combination . 
+
+
+Query3: what problems of heat conduction in composite slabs have been solved so far
+Query Lemmas: {heat=1, problem=1, composite=1, far=1, conduction=1, solve=1, so=1, slab=1}
+Weight 1 Vector: 
+{heat=0.1717717779807427, problem=0.15203345971650103, composite=0.5232008027208733, far=0.36856744140554065, conduction=0.36107027355075894, solve=0.29415211797595225, so=0.2767371472081802, slab=0.47739792654102786}
+Normalized: 
+{heat=0.1731987349259585, problem=0.15329644484594396, composite=0.5275471803852457, far=0.3716292358194811, conduction=0.3640697868620317, solve=0.2965957231631954, so=0.27903608128716606, slab=0.48136380670433215}
+
+TOP 5 document by WEIGHT-1
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.4531382002088095	cranfield0485	 linear heat flow in a composite slab . 
+2	0.36513017162376704	cranfield0005	 one-dimensional transient heat conduction into a double-layer slab subjected to a linear heat input for a small time internal . 
+3	0.26192840072728923	cranfield0144	 heat flow in composite slabs . 
+4	0.25836541943958813	cranfield0090	 periodic temperature distributions in a two-layer composite slab . 
+5	0.25027565470760826	cranfield0399	 conduction of heat in composite slabs . 
+
+
+TOP 5 document by WEIGHT-2
+Weight 2 Vector: 
+{heat=0.48542326016784443, problem=0.47560726177635626, composite=0.6601912771483378, far=0.5832910668253777, conduction=0.5795626748409108, solve=0.5462838261218863, so=0.5376232440623726, slab=0.6374131988496714}
+Normalized: 
+{heat=0.3029418309871989, problem=0.29681588530289726, composite=0.4120106527897758, far=0.364018946519905, conduction=0.3616921402312615, solve=0.340923552915109, so=0.33551867679603553, slab=0.39779536210967564}
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.3287030224222597	cranfield0485	 linear heat flow in a composite slab . 
+2	0.2635053401957854	cranfield0005	 one-dimensional transient heat conduction into a double-layer slab subjected to a linear heat input for a small time internal . 
+3	0.22764900668190335	cranfield0399	 conduction of heat in composite slabs . 
+4	0.22526320303130531	cranfield0181	 some problems on heat conduction in stratiform bodies . 
+5	0.1996403426758745	cranfield0144	 heat flow in composite slabs . 
+
+
+Query4: can a criterion be developed to show empirically the validity of flow solutions for chemically reacting gas mixtures based on the simplifying assumption of instantaneous local chemical equilibrium
+Query Lemmas: {chemically=1, criterion=1, show=1, react=1, instantaneous=1, develop=1, local=1, can=1, solution=1, mixture=1, chemical=1, gas=1, assumption=1, to=1, validity=1, simplify=1, equilibrium=1, empirically=1, flow=1, base=1}
+Weight 1 Vector: 
+{chemically=0.5354108567977349, criterion=0.3885097972720185, show=0.11788904849718666, react=0.565233603698464, instantaneous=0.5354108567977349, develop=0.2001805884319914, local=0.2599964448725873, can=0.1586597175939346, solution=0.12807002039410456, mixture=0.4305425982496091, chemical=0.3794897069642341, gas=0.2294939208305573, assumption=0.26560135810832397, to=0.01125188632156904, validity=0.41729066964830525, simplify=0.3282769611482099, equilibrium=0.2954241050090529, empirically=0.6791219525543741, flow=0.06750530221317827, base=0.18723551444818012}
+Normalized: 
+{chemically=0.33663570558018496, criterion=0.24427272639129247, show=0.07412188699046002, react=0.35538654209723164, instantaneous=0.33663570558018496, develop=0.12586209781643923, local=0.1634708851282923, can=0.09975615044273234, solution=0.08052309946961923, mixture=0.27070054613934835, chemical=0.2386014098189707, gas=0.14429264364794742, assumption=0.16699493380581235, to=0.00707454218172561, validity=0.26236849183309163, simplify=0.20640176611807945, equilibrium=0.18574577032285894, empirically=0.42699301811039, flow=0.04244347075225955, base=0.11772297613259508}
+
+TOP 5 document by WEIGHT-1
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.2088556513286022	cranfield0166	 flow of chemically reacting gas mixtures . 
+2	0.19687913023886103	cranfield0488	 a reaction-rate parameter for gasdynamics of a chemically reacting gas mixture . 
+3	0.16317577960382137	cranfield1189	 nonequilibrium flow past a wedge . 
+4	0.15429039620859328	cranfield1061	 turbulent mixing of a rocket exhaust jet with a supersonic stream including chemical reactions . 
+5	0.14696367957322642	cranfield1275	 flow about an unsteadily rotating disc . 
+
+
+TOP 5 document by WEIGHT-2
+Weight 2 Vector: 
+{chemically=0.6421673119140083, criterion=0.5757236934273894, show=0.45332143272068337, react=0.6556561950009826, instantaneous=0.6421673119140083, develop=0.4905420470699444, local=0.5175968685778422, can=0.4717620810839736, solution=0.45792630497093, mixture=0.5947352063538166, chemical=0.5716438900477523, gas=0.5038005210438561, assumption=0.5201319811079237, to=0.4050892488074551, validity=0.5887413347572485, simplify=0.5484802712444692, equilibrium=0.5336208641948978, empirically=0.7071681039408113, flow=0.4305327719252504, base=0.4846869663793192}
+Normalized: 
+{chemically=0.2631767840947509, criterion=0.23594646963852633, show=0.1857828553575306, react=0.2687048774841188, instantaneous=0.2631767840947509, develop=0.20103682640951898, local=0.21212459245834503, can=0.1933403103117665, solution=0.18767005118251734, mixture=0.24373787966505056, chemical=0.23427446062581042, gas=0.20647049218122876, assumption=0.21316354718339417, to=0.1660160581122517, validity=0.2412814359598112, simplify=0.22478141015197833, equilibrium=0.218691640572762, empirically=0.2898157909265351, flow=0.17644347237945202, base=0.19863726280952626}
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.23386828119820804	cranfield0166	 flow of chemically reacting gas mixtures . 
+2	0.20984513324172957	cranfield1189	 nonequilibrium flow past a wedge . 
+3	0.20883264454923403	cranfield1255	 the flow about a charged body moving in the lower atmosphere . 
+4	0.19546904473020013	cranfield0488	 a reaction-rate parameter for gasdynamics of a chemically reacting gas mixture . 
+5	0.19290790638262117	cranfield0167	 linearized flow of a dissociating gas . 
+
+
+Query5: what chemical kinetic system is applicable to hypersonic aerodynamic problems
+Query Lemmas: {system=1, problem=1, chemical=1, hypersonic=1, applicable=1, to=1, kinetic=1, aerodynamic=1}
+Weight 1 Vector: 
+{system=0.2892147256724394, problem=0.15203345971650103, chemical=0.3794897069642341, hypersonic=0.2185716552718638, applicable=0.3076341590859145, to=0.01125188632156904, kinetic=0.4353651255634372, aerodynamic=0.22356855713073331}
+Normalized: 
+{system=0.36355880962233567, problem=0.1911144168360846, chemical=0.47703942393343163, hypersonic=0.27475658655715113, applicable=0.38671305002330786, to=0.014144239673703811, kinetic=0.5472778968391416, aerodynamic=0.2810379668962275}
+
+TOP 5 document by WEIGHT-1
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.19814939429715286	cranfield0103	 theory of mixing and chemical reaction in the opposed jet diffusion flame . 
+2	0.1939004968723797	cranfield0943	 compressible free shear layer with finite initial thickness . 
+3	0.15624696632638757	cranfield1032	 on the conservativeness of various distributed force systems . 
+4	0.1405784815345929	cranfield0625	 viscous and inviscid nonequilibrium gas flows . 
+5	0.12344267761089485	cranfield1296	 non-equilibrium expansions of air with coupled chemical reactions . 
+
+
+TOP 5 document by WEIGHT-2
+Weight 2 Vector: 
+{system=0.5438284277307666, problem=0.47560726177635626, chemical=0.5887227829280494, hypersonic=0.5086971538228942, applicable=0.5529885358179052, to=0.40559563872439025, kinetic=0.6165100042987337, aerodynamic=0.5111821467160297}
+Normalized: 
+{system=0.36344058157574893, problem=0.31784837093367946, chemical=0.39344348273053464, hypersonic=0.33996234842443745, applicable=0.36956228254011, to=0.27105959767067944, kinetic=0.4120136849861904, aerodynamic=0.34162306937288317}
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.1828597735714972	cranfield1032	 on the conservativeness of various distributed force systems . 
+2	0.18038419345115575	cranfield0103	 theory of mixing and chemical reaction in the opposed jet diffusion flame . 
+3	0.17679409634452703	cranfield0943	 compressible free shear layer with finite initial thickness . 
+4	0.16944795454276357	cranfield1272	 oscillatory aerodynamic coefficients for a unified supersonic hypersonic strip theory . 
+5	0.16853418321688424	cranfield0625	 viscous and inviscid nonequilibrium gas flows . 
+
+
+Query6: what theoretical and experimental guides do we have as to turbulent couette flow behaviour
+Query Lemmas: {turbulent=1, theoretical=1, experimental=1, couette=1, behaviour=1, do=1, to=1, guide=1, we=1, flow=1}
+Weight 1 Vector: 
+{turbulent=0.24880173331585737, theoretical=0.19326698423974895, experimental=0.15365074123239178, couette=0.5122785371621799, behaviour=0.4093124538649631, do=0.2756739005276814, to=0.01125188632156904, guide=0.45727061854237766, we=0.4019046144453378, flow=0.06750530221317827}
+Normalized: 
+{turbulent=0.24828925038924324, theoretical=0.19286889203845656, experimental=0.15333425074619714, couette=0.5112233435328285, behaviour=0.40846935023597825, do=0.2751060661904737, to=0.011228709635638615, guide=0.4563287304706103, we=0.4010767695172272, flow=0.067366254488795}
+
+TOP 5 document by WEIGHT-1
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.18622618146163702	cranfield0386	 a generalised porous-wall ?couette type? flow . 
+2	0.17161581193065578	cranfield0491	 on the close relationship between turbulent plane-couette and pressure flows . 
+3	0.16911387692795576	cranfield0385	 on a generalised porous-wall ?couette type? flow . 
+4	0.11815047952464265	cranfield0257	 on turbulen flow between parallel plates . 
+5	0.10954285606353291	cranfield1282	 compressible flat-plate boundary-layer flow with an applied magnetic field . 
+
+
+TOP 5 document by WEIGHT-2
+Weight 2 Vector: 
+{turbulent=0.5217123400856343, theoretical=0.4945450684752686, experimental=0.47516503611952426, couette=0.6506036380964415, behaviour=0.6002332376151606, do=0.5348580457482688, to=0.4055043564058982, guide=0.6236940888371657, we=0.5966093662750177, flow=0.43302319558249724}
+Normalized: 
+{turbulent=0.30588267725176643, theoretical=0.289954363628898, experimental=0.2785917491635628, couette=0.3814523202920856, behaviour=0.3519198906950995, do=0.3135900733271407, to=0.2377493278275364, guide=0.3656751106333789, we=0.3497951959497981, flow=0.2538837673556818}
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.18472859178301043	cranfield0491	 on the close relationship between turbulent plane-couette and pressure flows . 
+2	0.18093408992311483	cranfield0121	 a theory for base pressures in transonic and supersonic flow . 
+3	0.1692181453025694	cranfield0386	 a generalised porous-wall ?couette type? flow . 
+4	0.15204068203806445	cranfield0257	 on turbulen flow between parallel plates . 
+5	0.14944102529006367	cranfield0418	 transition form laminar to turbulent shear flow . 
+
+
+Query7: is it possible to relate the available pressure distributions for an ogive forebody at zero angle of attack to the lower surface pressures of an equivalent ogive forebody at angle of attack
+Query Lemmas: {equivalent=1, surface=1, lower=1, available=1, possible=1, pressure=2, distribution=1, ogive=2, forebody=2, zero=1, relate=1, at=2, attack=2, angle=2, to=2}
+Weight 1 Vector: 
+{equivalent=0.3093937822796063, surface=0.1242304617275272, lower=0.24993252547334388, available=0.24553235789630273, possible=0.21590573510828764, pressure=0.11818136620224542, distribution=0.12345177746723202, ogive=0.5915630727342334, forebody=0.6419606382696457, zero=0.19938423935311986, relate=0.32685940877657377, at=0.07414724449577154, attack=0.31173720439012015, angle=0.23521335879664784, to=0.013491075186509952}
+Normalized: 
+{equivalent=0.26370146462337746, surface=0.10588368798821438, lower=0.21302164684349792, available=0.20927131086032216, possible=0.18402004768534505, pressure=0.10072794329964806, distribution=0.10522000244674656, ogive=0.5041990422294449, forebody=0.5471537252460883, zero=0.1699385021665364, relate=0.2785877084705563, at=0.06319692925713793, attack=0.26569880224994563, angle=0.20047625636382568, to=0.011498667684315903}
+
+TOP 5 document by WEIGHT-1
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.4562970699058388	cranfield0492	 prediction of ogive-forebody pressures at angles of attack . 
+2	0.244045929404416	cranfield0434	 contributions of the wing panels to the forces and moments of supersonic wing-body combinations at combined angles . 
+3	0.22434867904426592	cranfield0973	 interaction effects produced by jet exhausting laterally near base of ogive-cylinder model in supersonic main stream . 
+4	0.19673735020227853	cranfield0124	 a summary of the supersonic pressure drag of bodies of revolution . 
+5	0.18465755758399904	cranfield0056	 an analysis of the applicability of the hypersonic similarity law to the study of the flow about bodies of revolution at zero angle of attack . 
+
+
+TOP 5 document by WEIGHT-2
+Weight 2 Vector: 
+{equivalent=0.5665960304135402, surface=0.4668930759621521, lower=0.5345785500545746, available=0.5322092378916463, possible=0.5162565005267366, pressure=0.45638974486952705, distribution=0.46647378600178235, ogive=0.6822618473425897, forebody=0.7063088350692655, zero=0.5073603436969988, relate=0.5760005634382238, at=0.4353790477657853, attack=0.5487441039716504, angle=0.5122310709266068, to=0.40643721013074946}
+Normalized: 
+{equivalent=0.2741230581921092, surface=0.2258860827846833, lower=0.2586327808860723, available=0.25748649135870016, possible=0.24976844725272068, pressure=0.2208044989299337, distribution=0.22568322741677344, ogive=0.33008297630473343, forebody=0.3417170744312828, zero=0.24546442536512567, relate=0.2786730359808935, at=0.2106393790991045, attack=0.26548617334259883, angle=0.2478209167136888, to=0.19663711890602653}
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.4335716338931603	cranfield0492	 prediction of ogive-forebody pressures at angles of attack . 
+2	0.23794844490199243	cranfield0122	 a simplified approximate method for the calculation of the pressure around conical bodies of arbitrary shape in supersonic and hypersonic flow . 
+3	0.2254955315224399	cranfield0232	 accuracy of approximate methods for predicting pressure on pointed non-lifting bodies of revolution in supersonic flow . 
+4	0.22471473537029324	cranfield0248	 the application of lighthill formula for numerical calculation of pressure distributions on bodies of revolution at supersonic speed and zero angle of attack . 
+5	0.21581065730651053	cranfield0056	 an analysis of the applicability of the hypersonic similarity law to the study of the flow about bodies of revolution at zero angle of attack . 
+
+
+Query8: what methods -dash exact or approximate -dash are presently available for predicting body pressures at angle of attack
+Query Lemmas: {at=1, method=1, presently=1, attack=1, approximate=1, exact=1, available=1, predict=1, angle=1, pressure=1, dash=2, body=1}
+Weight 1 Vector: 
+{at=0.05117378835931293, method=0.09641573677807956, presently=0.5025196342446007, attack=0.21514991999592972, approximate=0.17087870638211575, exact=0.22139154193623733, available=0.24553235789630273, predict=0.19814096454326374, angle=0.16233588617078315, pressure=0.0815645714574472, dash=0.5915630727342334, body=0.13475917316521083}
+Normalized: 
+{at=0.05425622252073252, method=0.10222330292222463, presently=0.5327887180283448, attack=0.2281093956275878, approximate=0.18117152188197827, exact=0.23472697935044673, available=0.26032190840601654, predict=0.2100759120518672, angle=0.17211412806375567, pressure=0.0864775831668144, dash=0.62719565500911, body=0.1428763419785201}
+
+TOP 5 document by WEIGHT-1
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.17834831563711867	cranfield0019	 an investigation of the pressure distribution on conical bodies in hypersonic flows . 
+2	0.1590056413738112	cranfield0556	 numerical comparison between exact and approximate theories of hypersonic inviscid flow past slender blunt nosed bodies . 
+3	0.14366892935214545	cranfield1083	 an investigation of fluid flow in two dimensions . 
+4	0.12911931913420338	cranfield0569	 an experimental investigation of leading edge shock wave boundary layer interaction at mach 5.8 . 
+5	0.12425690554855782	cranfield0443	 calculated and measured pressure distributions over the midspan section of the naca 4412 airfoil . 
+
+
+TOP 5 document by WEIGHT-2
+Weight 2 Vector: 
+{at=0.42952948625727155, method=0.45563604465204455, presently=0.6899755345303558, attack=0.5241507969111823, approximate=0.49860439442828025, exact=0.5277524823681053, available=0.541682775902888, predict=0.5143358949390354, angle=0.49367481817221676, pressure=0.4470662807885437, dash=0.6949213567540786, body=0.47776186363383005}
+Normalized: 
+{at=0.2335383958904657, method=0.24773272704770846, presently=0.3751448612805404, attack=0.28498471055379027, approximate=0.2710949403575349, exact=0.2869429738884942, available=0.2945169787251445, predict=0.2796482749056345, angle=0.26841469285859776, pressure=0.24307328230671732, dash=0.37783394183366414, body=0.2597627003978361}
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.2745751674174158	cranfield0492	 prediction of ogive-forebody pressures at angles of attack . 
+2	0.2372494522980954	cranfield0122	 a simplified approximate method for the calculation of the pressure around conical bodies of arbitrary shape in supersonic and hypersonic flow . 
+3	0.22530467371487406	cranfield0248	 the application of lighthill formula for numerical calculation of pressure distributions on bodies of revolution at supersonic speed and zero angle of attack . 
+4	0.21660166387506377	cranfield0232	 accuracy of approximate methods for predicting pressure on pointed non-lifting bodies of revolution in supersonic flow . 
+5	0.21419846787653177	cranfield0069	 predicted shock envelopes about two types of vehicles at large angles of attack . 
+
+
+Query9: papers on internal /slip flow/ heat transfer studies
+Query Lemmas: {heat=1, internal=1, study=1, transfer=1, slip=1, papers=1, flow=1}
+Weight 1 Vector: 
+{heat=0.1717717779807427, internal=0.37119202823906083, study=0.1832563872316069, transfer=0.19865979378495113, slip=0.45727061854237766, papers=0.5354108567977349, flow=0.06750530221317827}
+Normalized: 
+{heat=0.19959220749362927, internal=0.43131087767268506, study=0.21293688226807753, transfer=0.23083504896952764, slip=0.5313308929426256, papers=0.6221268480803396, flow=0.07843856799202104}
+
+TOP 5 document by WEIGHT-1
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.19070437658934875	cranfield0021	 on heat transfer in slip flow . 
+2	0.18798666590596094	cranfield0306	 second approximation to laminar compressible boundary layer on flat plate in slip flow . 
+3	0.17361281527938793	cranfield0022	 on slip-flow heat transfer to a flat plate . 
+4	0.17264699071648926	cranfield0550	 laminar heat transfer in tubes under slip-flow conditions . 
+5	0.16378060395448515	cranfield0326	 forst-order slip effects on the compressible laminar boundary layer over a slender body of revolution in axial flow . 
+
+
+TOP 5 document by WEIGHT-2
+Weight 2 Vector: 
+{heat=0.4861374972079659, internal=0.5861397295407039, study=0.49189662428291414, transfer=0.49962089019306033, slip=0.6293051110665844, papers=0.668489688612875, flow=0.43385153166175194}
+Normalized: 
+{heat=0.33525900280673154, internal=0.4042243652461123, study=0.3392307170054378, transfer=0.3445576660709237, slip=0.43399286253186675, papers=0.46101604520965256, flow=0.2992006021063389}
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.22108695405879786	cranfield0021	 on heat transfer in slip flow . 
+2	0.21544166383922178	cranfield0550	 laminar heat transfer in tubes under slip-flow conditions . 
+3	0.20541370013948662	cranfield0045	 an investigation of separated flows, part ii: flow in the cavity and heat transfer . 
+4	0.1929002158843517	cranfield0270	 on combined free and forced convection laminar magnetohydrodynamic flow and heat transfer in channels with transverse magnetic field . 
+5	0.18854729567149286	cranfield0306	 second approximation to laminar compressible boundary layer on flat plate in slip flow . 
+
+
+Query10: are real-gas transport properties for air available over a wide range of enthalpies and densities
+Query Lemmas: {over=1, wide=1, density=1, property=1, available=1, range=1, transport=1, air=1, enthalpy=1, realga=1}
+Weight 1 Vector: 
+{over=0.17492534868552317, wide=0.351849475256591, density=0.2892147256724394, property=0.26369918285741484, available=0.2967118935272211, range=0.16038464329064764, transport=0.4305425982496091, air=0.2075884278516168, enthalpy=0.38241005902715314, realga=0.7509775004326937}
+Normalized: 
+{over=0.1499969692877677, wide=0.3017078732760464, density=0.2479991187683669, property=0.22611976211282286, available=0.2544278751773687, range=0.13752844053005925, transport=0.36918654369998105, air=0.1780052763703989, enthalpy=0.3279133087929438, realga=0.6439566930389076}
+
+TOP 5 document by WEIGHT-1
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.1955444115116619	cranfield0069	 predicted shock envelopes about two types of vehicles at large angles of attack . 
+2	0.16624545636864071	cranfield0302	 approximations for the thermodynamic and transport properties of high temperature air . 
+3	0.14140437261985467	cranfield0949	 charts for equilibrium flow properties of air in hypervelocity nozzles . 
+4	0.12842485161139353	cranfield0524	 stagnation point heat transfer in partially ionized air . 
+5	0.11805702674679791	cranfield1010	 free-flight measurements of the static and dynamic 
+
+
+TOP 5 document by WEIGHT-2
+Weight 2 Vector: 
+{over=0.48557244857205983, wide=0.5721226874935632, density=0.5414821375224472, property=0.529000084511067, available=0.5451497078060588, range=0.47845922127850504, transport=0.6106188989969114, air=0.5015510341981521, enthalpy=0.5870727447762272, realga=0.7673737626790802}
+Normalized: 
+{over=0.27059112370791355, wide=0.3188222918391146, density=0.3017474745341077, property=0.29479169942688416, available=0.30379127246217924, range=0.26662719170927346, transport=0.34027477160772857, air=0.27949538393219553, enthalpy=0.3271533921960439, realga=0.4276283165528228}
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.21707227293153122	cranfield0302	 approximations for the thermodynamic and transport properties of high temperature air . 
+2	0.1811361174953418	cranfield0524	 stagnation point heat transfer in partially ionized air . 
+3	0.1810290083116445	cranfield1010	 free-flight measurements of the static and dynamic 
+4	0.16559846952178148	cranfield0949	 charts for equilibrium flow properties of air in hypervelocity nozzles . 
+5	0.14258793047540957	cranfield0436	 heat transfer in planetary atmospheres at super-satellite speeds . 
+
+
+Query11: is it possible to find an analytical,  similar solution of the strong blast wave problem in the newtonian approximation
+Query Lemmas: {similar=1, strong=1, approximation=1, problem=1, analytical=1, solution=1, find=1, newtonian=1, possible=1, to=1, wave=1, blast=1}
+Weight 1 Vector: 
+{similar=0.26464590763439305, strong=0.37119202823906083, approximation=0.23434871760537254, problem=0.15203345971650103, analytical=0.31665424939369896, solution=0.12807002039410456, find=0.1501254492432446, newtonian=0.35868705037128956, possible=0.2609098044601611, to=0.01125188632156904, wave=0.1966661622929233, blast=0.47024573618458926}
+Normalized: 
+{similar=0.2818366640588697, strong=0.3953037622961035, approximation=0.2495714420327155, problem=0.16190918459628073, analytical=0.33722334158469847, solution=0.13638913836404626, find=0.1598772343893844, newtonian=0.38198649138915436, possible=0.27785787268205403, to=0.011982781572506433, wave=0.2094411193029703, blast=0.5007917589160868}
+
+TOP 5 document by WEIGHT-1
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.40000142924587234	cranfield0495	 on similar solutions for strong blast waves and their application to steady hypersonic flow . 
+2	0.16675218062894714	cranfield0654	 on the propagation and structure of the blast wave .  part 1. 
+3	0.14496636621918638	cranfield0556	 numerical comparison between exact and approximate theories of hypersonic inviscid flow past slender blunt nosed bodies . 
+4	0.14414650064285398	cranfield1327	 on the propagation and structure of the blast wave . 
+5	0.1437425680706423	cranfield0072	 boundary layer behind shock or thin expansion wave moving into stationary fluid . 
+
+
+TOP 5 document by WEIGHT-2
+Weight 2 Vector: 
+{similar=0.5273851673362456, strong=0.5786702808056879, approximation=0.5128018599419875, problem=0.4731800762755417, analytical=0.5524189620285949, solution=0.4616454685601918, find=0.4722616708651287, newtonian=0.5726511108420899, possible=0.5255868242887782, to=0.40541600448211584, wave=0.49466366669712863, blast=0.6263489820359689}
+Normalized: 
+{similar=0.29268874845678605, strong=0.32115101210301605, approximation=0.28459528991083377, problem=0.26260595272197856, analytical=0.30658202891182074, solution=0.25620446457774854, find=0.26209625516732904, newtonian=0.3178104871271383, possible=0.29169070223087923, to=0.22499818027791935, wave=0.2745289372545402, blast=0.34761178547216665}
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.3600815933371303	cranfield0495	 on similar solutions for strong blast waves and their application to steady hypersonic flow . 
+2	0.20999090628235115	cranfield0072	 boundary layer behind shock or thin expansion wave moving into stationary fluid . 
+3	0.20268491466434924	cranfield0472	 waves in supersonic flow . 
+4	0.18742374834011574	cranfield0654	 on the propagation and structure of the blast wave .  part 1. 
+5	0.18242311996649851	cranfield1327	 on the propagation and structure of the blast wave . 
+
+
+Query12: how can the aerodynamic performance of channel flow ground effect machines be calculated
+Query Lemmas: {can=1, performance=1, machine=1, effect=1, channel=1, ground=1, calculate=1, aerodynamic=1, flow=1}
+Weight 1 Vector: 
+{can=0.1586597175939346, performance=0.35635738732867905, machine=0.4404229892838603, effect=0.10347082893820955, channel=0.45727061854237766, ground=0.4019046144453378, calculate=0.2001805884319914, aerodynamic=0.22356855713073331, flow=0.06750530221317827}
+Normalized: 
+{can=0.1749887655482973, performance=0.3930332175572074, machine=0.4857507399018587, effect=0.11411990958219446, channel=0.5043323048451964, ground=0.44326810495118785, calculate=0.22078290940929465, aerodynamic=0.2465779368638974, flow=0.0744528584910351}
+
+TOP 5 document by WEIGHT-1
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.25237659343001595	cranfield0624	 cruise performance of channel-flow ground effect machines . 
+2	0.22976062511705073	cranfield0650	 some design problems of hovercraft . 
+3	0.17477914085012095	cranfield0941	 viscous compressible and incompressible flow in slender channels . 
+4	0.15971745439811652	cranfield0506	 a note on havelock's shallow-water wave-resistance curves . 
+5	0.15630804302998308	cranfield0966	 on fully developed channel flows,. some solutions and limitations, and effects of compressibility, variable properties, and body forces . 
+
+
+TOP 5 document by WEIGHT-2
+Weight 2 Vector: 
+{can=0.47825367857631207, performance=0.5757615409204463, machine=0.6172241294998705, effect=0.45103357747350964, channel=0.6255336675777279, ground=0.5982262101186572, calculate=0.49873248019050376, aerodynamic=0.5102678252223681, flow=0.4332947663193673}
+Normalized: 
+{can=0.29713546560078385, performance=0.35771637773011605, machine=0.3834767766866609, effect=0.28022381854569267, channel=0.38863943110270555, ground=0.37167351019096523, calculate=0.30985879325127463, aerodynamic=0.31702561761760684, flow=0.26920282665874906}
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.25878084697176645	cranfield0624	 cruise performance of channel-flow ground effect machines . 
+2	0.2392634586072804	cranfield0650	 some design problems of hovercraft . 
+3	0.18872883231526533	cranfield0506	 a note on havelock's shallow-water wave-resistance curves . 
+4	0.17114369401197033	cranfield1232	 the curtain jet . 
+5	0.15876141991930218	cranfield0966	 on fully developed channel flows,. some solutions and limitations, and effects of compressibility, variable properties, and body forces . 
+
+
+Query13: what is the basic mechanism of the transonic aileron buzz
+Query Lemmas: {transonic=1, aileron=1, basic=1, mechanism=1, buzz=1}
+Weight 1 Vector: 
+{transonic=0.321476776707527, aileron=0.5232008027208733, basic=0.37664937469886955, mechanism=0.4019046144453378, buzz=0.7509775004326937}
+Normalized: 
+{transonic=0.2881785381263916, aileron=0.4690081940563567, basic=0.33763641435813346, mechanism=0.3602757419783371, buzz=0.673192012365471}
+
+TOP 5 document by WEIGHT-1
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.41742293271044784	cranfield0496	 a theory of transonic aileron buzz, neglecting viscous effects . 
+2	0.18046924167000913	cranfield0903	 two dimensional transonic unsteady flow with shock waves . 
+3	0.1463232080412578	cranfield0520	 wing-tail interference as a cause of 'magnus' effects on a finned missile . 
+4	0.1302734792022305	cranfield0643	 an investigation of wing-aileron flutter using ground launched rocket models . 
+5	0.10967849581971267	cranfield0038	 on the prediction of mixed subsonic/supersonic pressure distributions . 
+
+
+TOP 5 document by WEIGHT-2
+Weight 2 Vector: 
+{transonic=0.5639509195662306, aileron=0.6668287694134665, basic=0.5920885606990707, mechanism=0.6049685572658713, buzz=0.7829933005751909}
+Normalized: 
+{transonic=0.3898752260053817, aileron=0.46099759422669706, basic=0.4093275733911475, mechanism=0.41823187941886414, buzz=0.5413054211477376}
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.23590024598265472	cranfield0496	 a theory of transonic aileron buzz, neglecting viscous effects . 
+2	0.14800987074549304	cranfield0903	 two dimensional transonic unsteady flow with shock waves . 
+3	0.14043092502396246	cranfield0520	 wing-tail interference as a cause of 'magnus' effects on a finned missile . 
+4	0.13380275551428297	cranfield0313	 on alternative forms for the basic equations of transonic flow theory . 
+5	0.12563349107395808	cranfield0038	 on the prediction of mixed subsonic/supersonic pressure distributions . 
+
+
+Query14: papers on shock-sound wave interaction
+Query Lemmas: {shocksound=1, interaction=1, papers=1, wave=1}
+Weight 1 Vector: 
+{shocksound=0.0, interaction=0.29042720315018344, papers=0.5354108567977349, wave=0.1966661622929233}
+Normalized: 
+{shocksound=0.0, interaction=0.45374247786516214, papers=0.8364872374358376, wave=0.3072570021785398}
+
+TOP 5 document by WEIGHT-1
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.18332349781106758	cranfield0046	 some comments on the inversion of certain large matrices . 
+2	0.17859161498545206	cranfield0875	 models for aeroelastic investigation . 
+3	0.14917299571240705	cranfield0388	 the pressure gradient induced by shear flow past a flat plate . 
+4	0.13990732808635378	cranfield0739	 the buckling of thin cylindrical shells under axial compression . 
+5	0.1299115331389051	cranfield0291	 sweepback effects in the turbulent boundary-layer shock-wave interaction . 
+
+
+TOP 5 document by WEIGHT-2
+Weight 2 Vector: 
+{shocksound=0.0, interaction=0.5493861356211683, papers=0.6753976142698734, wave=0.5011585611599648}
+Normalized: 
+{shocksound=0.0, interaction=0.5468906339632336, papers=0.6723297249350434, wave=0.4988821258093551}
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.1689140986491564	cranfield0291	 sweepback effects in the turbulent boundary-layer shock-wave interaction . 
+2	0.14767996442972398	cranfield0256	 an experimental study of the glancing interaction between a shock wave and a turbulent boundary layer . 
+3	0.1430716465943026	cranfield0335	 the interaction between boundary layer and shock waves in transonic flow . 
+4	0.1419832571731856	cranfield0265	 some instabilities arising from the interaction between shock waves and boundary layer . 
+5	0.13946486192384144	cranfield0064	 unsteady oblique interaction of a shock wave with plane disturbances . 
+
+
+Query15: material properties of photoelastic materials
+Query Lemmas: {material=2, property=1, photoelastic=1}
+Weight 1 Vector: 
+{material=0.3796702316934312, property=0.21821397643559354, photoelastic=0.6214421478571255}
+Normalized: 
+{material=0.4994117088982907, property=0.2870349207814297, photoelastic=0.8174343394226152}
+
+TOP 5 document by WEIGHT-1
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.25889989967884114	cranfield0462	 photo-thermoelasticity . 
+2	0.11840882563598577	cranfield1099	 a theoretical study of stagnation point ablation . 
+3	0.09937906903240601	cranfield1043	 on transverse vibrations of thin, shallow elastic shells . 
+4	0.09872140076227397	cranfield0761	 buckling of sandwich under normal pressure . 
+5	0.09612874859232504	cranfield1025	 note on creep buckling of columns . 
+
+
+TOP 5 document by WEIGHT-2
+Weight 2 Vector: 
+{material=0.5981710634485261, property=0.5356381270977515, photoelastic=0.7862779571308679}
+Normalized: 
+{material=0.5322704391626053, property=0.47662676876894666, photoelastic=0.6996535591894895}
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.20872305388970241	cranfield0462	 photo-thermoelasticity . 
+2	0.156977450334347	cranfield1099	 a theoretical study of stagnation point ablation . 
+3	0.14549565629491817	cranfield0817	 loading paths and the incremental stress law . 
+4	0.13411921158928622	cranfield1340	 method of controlling stiffness properties of a solid-construction model wing . 
+5	0.12934349749439486	cranfield0463	 physical properties of plastics for photo-thermoelastic investigation . 
+
+
+Query16: can the transverse potential flow about a body of revolution be calculated efficiently by an electronic computer
+Query Lemmas: {can=1, computer=1, transverse=1, about=1, efficiently=1, electronic=1, calculate=1, body=1, potential=1, revolution=1, flow=1}
+Weight 1 Vector: 
+{can=0.1586597175939346, computer=0.39499101025309535, transverse=0.33004906656701816, about=0.21380457895833327, efficiently=0.0, electronic=0.5232008027208733, calculate=0.2001805884319914, body=0.16284879835226998, potential=0.3318519927509069, revolution=0.3006741201145824, flow=0.06750530221317827}
+Normalized: 
+{can=0.16901142020368157, computer=0.4207620725849236, transverse=0.35158301252090257, about=0.22775419043843992, efficiently=0.0, electronic=0.5573368720211405, calculate=0.2132413070007439, body=0.17347381619839902, potential=0.35350357004793226, revolution=0.3202915070674537, flow=0.07190966409966779}
+
+TOP 5 document by WEIGHT-1
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.355237351323665	cranfield0498	 calculation of potential flow about bodies of revolution having axes perpendicular to the free-stream direction . 
+2	0.19470248789489517	cranfield0106	 the transverse potential flow past a body of revolution . 
+3	0.18989788076054723	cranfield0093	 the supersonic blunt body problem - review and extensions . 
+4	0.1528777847922626	cranfield1006	 free-flight measurements of the static and dynamic 
+5	0.1516486809674036	cranfield1286	 equilibrium real-gas performance charts for a shypersonic shock-tube wind-tunnel employing nitrogen . 
+
+
+TOP 5 document by WEIGHT-2
+Weight 2 Vector: 
+{can=0.4769874451402265, computer=0.5916639534842167, transverse=0.560151768774374, about=0.5037457304406117, efficiently=0.0, electronic=0.6538759913835595, calculate=0.4971348764750062, body=0.4790201389453153, potential=0.5610266139006539, revolution=0.5458979801454797, flow=0.43275601916872536}
+Normalized: 
+{can=0.28257751135915693, computer=0.35051431487329515, transverse=0.33184582616668024, about=0.29842968890692917, efficiently=0.0, electronic=0.3873700498099027, calculate=0.2945132783586171, body=0.28378172241890154, potential=0.33236410303356123, revolution=0.32340157850517565, flow=0.25637387350194013}
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.3183768141192472	cranfield0498	 calculation of potential flow about bodies of revolution having axes perpendicular to the free-stream direction . 
+2	0.24363157242070038	cranfield0106	 the transverse potential flow past a body of revolution . 
+3	0.2016383831949105	cranfield1006	 free-flight measurements of the static and dynamic 
+4	0.19377651141694274	cranfield0326	 forst-order slip effects on the compressible laminar boundary layer over a slender body of revolution in axial flow . 
+5	0.18300665506136313	cranfield1255	 the flow about a charged body moving in the lower atmosphere . 
+
+
+Query17: can the three-dimensional problem of a transverse potential flow about a body of revolution be reduced to a two-dimensional problem
+Query Lemmas: {reduce=1, can=1, problem=2, transverse=1, twodimensional=1, about=1, to=1, body=1, potential=1, revolution=1, threedimensional=1, flow=1}
+Weight 1 Vector: 
+{reduce=0.20656431451671792, can=0.1312926627271392, problem=0.1822889760242911, transverse=0.27311923553964024, twodimensional=0.378396470167484, about=0.17692564250327125, to=0.009311059784202906, body=0.13475917316521083, potential=0.27461117680219216, revolution=0.24881114401083707, threedimensional=0.5025196342446007, flow=0.05586138063381526}
+Normalized: 
+{reduce=0.23797668448175166, can=0.15125842353596228, problem=0.21000977944001742, transverse=0.3146526557308806, twodimensional=0.4359394680573827, about=0.20383084029417167, to=0.010726998715340295, body=0.15525208847612265, potential=0.31637147747380506, revolution=0.28664801687717695, threedimensional=0.5789381226099145, flow=0.06435625720207633}
+
+TOP 5 document by WEIGHT-1
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.17432089663516998	cranfield0106	 the transverse potential flow past a body of revolution . 
+2	0.1594460456041604	cranfield1281	 turbulent heat transfer on blunt-nosed bodies in two-dimensional and general three-dimensional hypersonic flow . 
+3	0.1441257564065781	cranfield0498	 calculation of potential flow about bodies of revolution having axes perpendicular to the free-stream direction . 
+4	0.11527395929547711	cranfield0182	 effect of roughness on transition in supersonic flow . 
+5	0.10998592567546621	cranfield1149	 similar temperature boundary layers . 
+
+
+TOP 5 document by WEIGHT-2
+Weight 2 Vector: 
+{reduce=0.5191965317075079, can=0.4757615373804172, problem=0.4908794253872374, transverse=0.5576015958763113, twodimensional=0.6183511075465902, about=0.5020937377583947, to=0.4053728836725495, body=0.47776186363383005, potential=0.5584625104269372, revolution=0.5435747771131532, threedimensional=0.6899755345303558, flow=0.43223442947307744}
+Normalized: 
+{reduce=0.28387578521081547, can=0.26012727695387583, problem=0.2683931301839643, transverse=0.3048741299245908, twodimensional=0.33808952000021103, about=0.27452466523003255, to=0.22164159162863198, body=0.2612209749105973, potential=0.3053448433811206, revolution=0.29720482948202825, threedimensional=0.3772508764588585, flow=0.2363284046953975}
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.25161926026844145	cranfield0106	 the transverse potential flow past a body of revolution . 
+2	0.19375030681629304	cranfield0498	 calculation of potential flow about bodies of revolution having axes perpendicular to the free-stream direction . 
+3	0.18998345434338854	cranfield0231	 practical calculation of second-order supersonic flow past non-lifting bodies of revolution . 
+4	0.18705788555858255	cranfield1255	 the flow about a charged body moving in the lower atmosphere . 
+5	0.17955197095590852	cranfield0336	 simplified laminar boundary layer calculations for bodies of revolution and for yawed wings . 
+
+
+Query18: are experimental pressure distributions on bodies of revolution at angle of attack available
+Query Lemmas: {at=1, attack=1, available=1, angle=1, experimental=1, pressure=1, distribution=1, body=1, revolution=1}
+Weight 1 Vector: 
+{at=0.06184061348633205, attack=0.2599964448725873, available=0.2967118935272211, angle=0.19617368800528998, experimental=0.15365074123239178, pressure=0.09856614683795172, distribution=0.1491844535907302, body=0.16284879835226998, revolution=0.3006741201145824}
+Normalized: 
+{at=0.10160371626409644, attack=0.427172428041108, available=0.48749566575347175, angle=0.3223120633978867, experimental=0.25244714493970005, pressure=0.1619435230664707, distribution=0.2451090640780424, body=0.26755949155307274, revolution=0.4940055776586195}
+
+TOP 5 document by WEIGHT-1
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.2391342101904494	cranfield0248	 the application of lighthill formula for numerical calculation of pressure distributions on bodies of revolution at supersonic speed and zero angle of attack . 
+2	0.22335913680084668	cranfield0498	 calculation of potential flow about bodies of revolution having axes perpendicular to the free-stream direction . 
+3	0.19058896071835574	cranfield0056	 an analysis of the applicability of the hypersonic similarity law to the study of the flow about bodies of revolution at zero angle of attack . 
+4	0.18410712045374167	cranfield0197	 pressure distributions on three bodies of revolution to determine the effect of reynolds number up to and including the transonic speed range . 
+5	0.18023722341484033	cranfield0124	 a summary of the supersonic pressure drag of bodies of revolution . 
+
+
+TOP 5 document by WEIGHT-2
+Weight 2 Vector: 
+{at=0.43050084523096604, attack=0.5282346807153341, available=0.5463433661546849, angle=0.49675620856445135, experimental=0.47578316600931186, pressure=0.4486145046148596, distribution=0.473580316774231, body=0.48031980464891716, revolution=0.5482976038812857}
+Normalized: 
+{at=0.290715683524134, attack=0.35671499363240966, available=0.36894372424593497, angle=0.3354576937942884, experimental=0.32129467304870324, pressure=0.30294777302464765, distribution=0.31980709682633, body=0.3243582489223052, revolution=0.3702634140043896}
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.301873371251658	cranfield0498	 calculation of potential flow about bodies of revolution having axes perpendicular to the free-stream direction . 
+2	0.29477295510227475	cranfield0492	 prediction of ogive-forebody pressures at angles of attack . 
+3	0.2938305520555472	cranfield0248	 the application of lighthill formula for numerical calculation of pressure distributions on bodies of revolution at supersonic speed and zero angle of attack . 
+4	0.287069563022603	cranfield1006	 free-flight measurements of the static and dynamic 
+5	0.268574919039858	cranfield1352	 aerodynamic investigation of a parabolic body of revolution at mach number of 1. 92 and some effects of an annular supersonic jet exhausting from the base . 
+
+
+Query19: does there exist a good basic treatment of the dynamics of re-entry combining consideration of realistic effects with relative simplicity of results
+Query Lemmas: {treatment=1, simplicity=1, do=1, good=1, exist=1, result=1, dynamics=1, realistic=1, effect=1, consideration=1, basic=1, reentry=1, combine=1, relative=1}
+Weight 1 Vector: 
+{treatment=0.3660076658542719, simplicity=0.4933780558201443, do=0.2756739005276814, good=0.2417039749074189, exist=0.2725480664498448, result=0.07425254813835742, dynamics=0.4933780558201443, realistic=0.6791219525543741, effect=0.10347082893820955, consideration=0.28566012683665293, basic=0.37664937469886955, reentry=0.5354108567977349, combine=0.3496669600635051, relative=0.36856744140554065}
+Normalized: 
+{treatment=0.2540757467337232, simplicity=0.34249391378716837, do=0.19136771894678412, good=0.16778642537384106, exist=0.18919782278999633, result=0.051544744482609844, dynamics=0.34249391378716837, realistic=0.4714338887295817, effect=0.0718275341754733, consideration=0.19829997240268335, basic=0.2614630240326925, reentry=0.3716723061871336, combine=0.24273233124472027, relative=0.2558526955392662}
+
+TOP 5 document by WEIGHT-1
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.10756067970335018	cranfield0713	 static longitudinal stability characteristics of a blunted glider reentry configuration having 79.5degree sweepback and 45degree dihedral at  a mach number of 6.2 and angles of attack up to 20degree . 
+2	0.10733956944903046	cranfield0711	 an investigation at subsonic speeds of aerodynamic characteristics at angles of attack from -dash 4degrees to 100degrees of a delta-wing reentry configuration having folding wingtip panels . 
+3	0.10029118286713395	cranfield0027	 newtonian flow theory for slender bodies . 
+4	0.09748012468172501	cranfield0706	 on som reciprocal relations in the theory of nonstationary flows . 
+5	0.09592036610462897	cranfield1279	 sublimation in a hypersonic environment . 
+
+
+TOP 5 document by WEIGHT-2
+Weight 2 Vector: 
+{treatment=0.5733916729344186, simplicity=0.6337318435342474, do=0.5305971520713526, good=0.5145043136358313, exist=0.5291163262563893, result=0.4351762401241055, dynamics=0.6337318435342474, realistic=0.721725751850171, effect=0.44901804471125617, consideration=0.5353280051314185, basic=0.5784330528605441, reentry=0.6536443709470632, combine=0.5656504626311395, relative=0.5746043354182361}
+Normalized: 
+{treatment=0.26826098793483505, simplicity=0.2964911045223808, do=0.24823959420553157, good=0.24071056833863097, exist=0.24754679063890755, result=0.20359697151516135, dynamics=0.2964911045223808, realistic=0.33765900753058653, effect=0.21007285239837514, consideration=0.2504529212829427, basic=0.27061959484068027, reentry=0.3058071698372191, combine=0.26463926682901334, relative=0.268828331430208}
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.13107119483129365	cranfield0706	 on som reciprocal relations in the theory of nonstationary flows . 
+2	0.11607245795460736	cranfield0713	 static longitudinal stability characteristics of a blunted glider reentry configuration having 79.5degree sweepback and 45degree dihedral at  a mach number of 6.2 and angles of attack up to 20degree . 
+3	0.11189942711915753	cranfield1119	 plastic stability theory of thin shells . 
+4	0.11136891039394173	cranfield0260	 a critical review of skin friction and heat transfer solutions of the laminar boundary layer of a flat plate . 
+5	0.1090117003097496	cranfield0482	 a re-examination of the use of the simple concepts for prediction the shape and location of detached shock waves . 
+
+
+Query20: has anyone formally determined the influence of joule heating,  produced by the induced current,  in magnetohydrodynamic free convection flows under general conditions
+Query Lemmas: {joule=1, determine=1, produce=1, influence=1, convection=1, general=1, induce=1, current=1, condition=1, anyone=1, have=1, magnetohydrodynamic=1, heating=1, free=1, under=1, formally=1, flow=1}
+Weight 1 Vector: 
+{joule=0.7509775004326937, determine=0.17452586594613753, produce=0.2993364803607412, influence=0.2725480664498448, convection=0.40554237866270815, general=0.19326698423974895, induce=0.3076341590859145, current=0.4305425982496091, condition=0.148251922781404, anyone=0.0, have=0.11742831154950688, magnetohydrodynamic=0.42593447771869397, heating=0.30479382682054995, free=0.19519570299165678, under=0.20434861284686653, formally=0.6370891515767836, flow=0.06750530221317827}
+Normalized: 
+{joule=0.5257223570529052, determine=0.12217696210477354, produce=0.20955072544317002, influence=0.19079747638466846, convection=0.28390024344612036, general=0.13529669588833948, induce=0.2153595215987838, current=0.30140166573972177, condition=0.10378386867430565, anyone=0.0, have=0.08220577673363012, magnetohydrodynamic=0.2981757475388426, heating=0.21337114488643155, free=0.13664689688339046, under=0.1430543982269076, formally=0.44599473383264227, flow=0.0472571369616705}
+
+TOP 5 document by WEIGHT-1
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.3786228586226582	cranfield0500	 joule heating in magnetohydrodynamic free-convection flows . 
+2	0.168821848807968	cranfield0268	 several magnetohydrodynamic free-convection solutions . 
+3	0.13187231365056695	cranfield0450	 some physical interpretations of magnetohydrodynamic duct flows . 
+4	0.11815284098111051	cranfield0088	 magnetohydrodynamic free-convection pipe flow . 
+5	0.11168864748753081	cranfield0584	 conduction of heat in a solid with a power law of heat transfer at its surface . 
+
+
+TOP 5 document by WEIGHT-2
+Weight 2 Vector: 
+{joule=0.7475311533776821, determine=0.48076563605641065, produce=0.5385244593983782, influence=0.5261275388804553, convection=0.5876735461701242, general=0.4894384956992277, induce=0.5423643904962545, current=0.5992429409159389, condition=0.4686067980531969, anyone=0.0, have=0.45434250230996304, magnetohydrodynamic=0.5971104330284328, heating=0.5410499650339881, free=0.4903310522032581, under=0.49456676008653055, formally=0.6948268457101827, flow=0.4312395451577946}
+Normalized: 
+{joule=0.3403503824650931, determine=0.21889223929802085, produce=0.24518978894039717, influence=0.2395454801773446, convection=0.2675673318762194, general=0.22284098589294368, induce=0.2469381067354436, current=0.27283486876593377, condition=0.21335632932821375, anyone=0.0, have=0.20686180600317453, magnetohydrodynamic=0.2718639394985139, heating=0.2463396497925017, free=0.22324736621053423, under=0.2251758808838937, formally=0.31635415007913875, flow=0.19634304666145858}
+Rank	 Score          	 Doc. Identifier 	 Document Title
+1	0.28469349500317404	cranfield0500	 joule heating in magnetohydrodynamic free-convection flows . 
+2	0.21660222858475825	cranfield0268	 several magnetohydrodynamic free-convection solutions . 
+3	0.1838974773484569	cranfield0088	 magnetohydrodynamic free-convection pipe flow . 
+4	0.17092776073555305	cranfield0450	 some physical interpretations of magnetohydrodynamic duct flows . 
+5	0.15481709329032417	cranfield0270	 on combined free and forced convection laminar magnetohydrodynamic flow and heat transfer in channels with transverse magnetic field . 
+
+Time Taken to Execute : 42202 milliseconds
